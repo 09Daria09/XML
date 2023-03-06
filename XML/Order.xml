@@ -1,0 +1,16 @@
+﻿<Orders>
+	<Order Id="1" Customer="Павел">
+		<Product Id="1" Name="Молоко" Price="30" />
+		<Product Id="2" Name="Хлеб" Price="20" />
+	</Order>
+	<Order Id="2" Customer="Валентина">
+		<Product Id="3" Name="Огурцы" Price="30" />
+	</Order>
+	<Order Id="2" Customer="Николай">
+		<Product Id="3" Name="Помидоры" Price="60,5" />
+	</Order>
+	<Order Id="1" Customer="Светлана">
+		<Product Id="1" Name="Конфеты" Price="68,9" />
+		<Product Id="2" Name="Сок" Price="45" />
+	</Order>
+</Orders>
